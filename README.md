@@ -2,9 +2,9 @@
 Mateo Freire 22/06/2025 Septimo Semestre
 # Mejoras de Accesibilidad Implementadas
 1. Etiquetas semánticas de HTML5
-Uso de: <header>, <nav>, <main>, <section>, <footer>, <article>, <form>. Permite que lectores de pantalla y motores de búsqueda comprendan mejor la estructura del contenido.
+Uso de: header, nav, main, section, footer, article, form. Permite que lectores de pantalla y motores de búsqueda comprendan mejor la estructura del contenido.
 2. Jerarquía de títulos clara
-Se usa un orden lógico y estructurado: <h1>, <h2>, <h3>. Mejora la navegación para usuarios con tecnologías asistidas y para la indexación en buscadores.
+Se usa un orden lógico y estructurado: h1, h2, h3. Mejora la navegación para usuarios con tecnologías asistidas y para la indexación en buscadores.
 3. Contraste de color adecuado
 Texto blanco (#FFFFFF) sobre fondo oscuro (#121212) para cumplir con WCAG nivel AA. Colores de énfasis con alto contraste para elementos de foco o destacados.
 4. Texto alternativo (alt) en imágenes
